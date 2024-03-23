@@ -42,7 +42,7 @@ Customer Support: Dedicated customer support is available to assist users in nav
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![Screenshot 2023-11-25 133637](https://github.com/LAWANYA03/Secure-and-versatile-lost-articles-retrival-system/blob/main/archiiii.png)
 
 
 ## Output
